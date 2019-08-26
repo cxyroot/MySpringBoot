@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--   配置Bean  通过反射方式 -->
+    <bean id="student" class="com.jingyougroup.bean.Student">
+        <!--<property name="name" value="zhangsan"></property>-->
+        <constructor-arg value="李四"></constructor-arg>
+    </bean>
+
+    <!--
+    构造器方式的注入Bean
+    <bean id="student" class="com.jingyougroup.bean.Student">
+        <constructor-arg value="李四"></constructor-arg>
+    </bean>
+    -->
+
+   <!-- 构造器给Ben属性赋值
+   <bean id="person" class="com.jingyougroup.bean.Person">
+        <constructor-arg value="印度阿三"></constructor-arg>
+        <constructor-arg type="int">
+            <value>34</value>
+        </constructor-arg>
+    </bean>-->
+</beans>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBatis001HelloWorld/MyBatis001-HelloWorld.iml" filepath="$PROJECT_DIR$/MyBatis001HelloWorld/MyBatis001-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring001-HelloWorld/Spring001-HelloWorld.iml" filepath="$PROJECT_DIR$/Spring001-HelloWorld/Spring001-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring001-hello/spring001-hello.iml" filepath="$PROJECT_DIR$/spring001-hello/spring001-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot01-primary/springboot01-primary.iml" filepath="$PROJECT_DIR$/springboot01-primary/springboot01-primary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot02-multienv/springboot02-multienv.iml" filepath="$PROJECT_DIR$/springboot02-multienv/springboot02-multienv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot03-webdemo/springboot03-webdemo.iml" filepath="$PROJECT_DIR$/springboot03-webdemo/springboot03-webdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot04-redconfig/springboot04-redconfig.iml" filepath="$PROJECT_DIR$/springboot04-redconfig/springboot04-redconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot05-jspdemo/springboot05-jspdemo.iml" filepath="$PROJECT_DIR$/springboot05-jspdemo/springboot05-jspdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot06-mybatis/springboot06-mybatis.iml" filepath="$PROJECT_DIR$/springboot06-mybatis/springboot06-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot07-mybatis/springboot07-mybatis.iml" filepath="$PROJECT_DIR$/springboot07-mybatis/springboot07-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot08-interceptor/springboot08-interceptor.iml" filepath="$PROJECT_DIR$/springboot08-interceptor/springboot08-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot10-webflux/springboot10-webflux.iml" filepath="$PROJECT_DIR$/springboot10-webflux/springboot10-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot11-asyncServlet/springboot11-asyncServlet.iml" filepath="$PROJECT_DIR$/springboot11-asyncServlet/springboot11-asyncServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot12-sse/springboot12-sse.iml" filepath="$PROJECT_DIR$/springboot12-sse/springboot12-sse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot13-sse/springboot13-sse.iml" filepath="$PROJECT_DIR$/springboot13-sse/springboot13-sse.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot01-primary" />
+        <module name="springboot02-multienv" />
+        <module name="springboot03-webdemo" />
+        <module name="springboot04-redconfig" />
+        <module name="springboot05-jspdemo" />
+        <module name="springboot06-mybatis" />
+        <module name="springboot07-mybatis" />
+        <module name="springboot08-interceptor" />
+        <module name="springboot10-webflux" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot01-primary" target="1.8" />
+      <module name="springboot02-multienv" target="1.8" />
+      <module name="springboot03-webdemo" target="1.8" />
+      <module name="springboot04-redconfig" target="1.8" />
+      <module name="springboot05-jspdemo" target="1.8" />
+      <module name="springboot06-mybatis" target="1.8" />
+      <module name="springboot07-mybatis" target="1.8" />
+      <module name="springboot08-interceptor" target="1.8" />
+      <module name="springboot08-interceptor (1)" target="1.8" />
+      <module name="springboot10-webflux" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot03-webdemo" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot07-mybatis" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot10-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot01-primary/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot02-multienv/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot03-webdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot04-redconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot05-jspdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot06-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot07-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot08-interceptor/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

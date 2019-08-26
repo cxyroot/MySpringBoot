@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="maven-wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springboot10-webflux/.mvn/wrapper/maven-wrapper.jar!/" />
+      <root url="file://$PROJECT_DIR$/Spring001-HelloWorld" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Spring001-HelloWorld/src" />
+    </SOURCES>
+  </library>
+</component>
